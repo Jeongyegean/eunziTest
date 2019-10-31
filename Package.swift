@@ -22,7 +22,7 @@ let package = Package(
             name: "eunziTest",
             path: "Sources",
             exclude: [],
-            sources: ["eunziTest"],
+            sources: ["eunziTest/RESideMenu.m"],
             publicHeadersPath: "eunziTest"
         ),
         .testTarget(
